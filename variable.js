@@ -10,13 +10,30 @@
 let variable1;
 
 // Inisiasi
+
+
+
+
+
+
+
+
+
+
+
+
 let variable2 = 21512;
 
 /*
 LET
 1. Bisa diganti valuenya
+
+
+
 2. Tidak bisa dideklarasi ulang 
 */
+
+
 let asd = "ABC";
 asd = 123;
 
